@@ -9,8 +9,8 @@ Este projeto utiliza um sensor ultrassônico, um display LCD com I2C, um relógi
 
 📸 Imagem do Projeto
 ---
+![Captura de tela 2025-06-04 224914](https://github.com/user-attachments/assets/fac6fbe6-da31-41a7-a97e-012d4b1839e4)
 
-![Captura de tela 2025-06-04 190712](https://github.com/user-attachments/assets/ad517cb6-de3f-4804-a4d3-114c9f045ed8)
 
 
 🛠️ COMPONENTES UTILIZADOS
